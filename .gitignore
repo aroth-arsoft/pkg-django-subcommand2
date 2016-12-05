@@ -1,0 +1,12 @@
+/.pybuild/
+/django_subcommand2.egg-info/
+/subcommand/
+/AUTHORS.rst
+/CONTRIBUTING.rst
+/HISTORY.rst
+/LICENSE
+/MANIFEST.in
+/PKG-INFO
+/README.rst
+/setup.cfg
+/setup.py
